@@ -1,6 +1,6 @@
-# valuation_volatility_derivatives
+# Valuation of volatility derivatives
 
-In this paper Gruenbichler and Longstaff (1996) model (or GL (1996)) for valuation
+Gruenbichler and Longstaff (1996) model (or GL (1996)) for valuation
 of volatility derivatives is presented. This model assumes diffusion processes for the dynamics of the
 underlying, and, based on the general approach of risk-neutral evaluation, simple closed-
 form expressions for valuation of options and futures on volatility index are derived. In this paper
